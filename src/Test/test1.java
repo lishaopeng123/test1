@@ -16,5 +16,7 @@ public class test1 {
 			System.out.println(key+""+map.get(key));
 		}
 	}
+	
+	
 
 }
